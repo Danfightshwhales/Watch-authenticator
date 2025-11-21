@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+pydantic
+python-multipart
+numpy
+opencv-python
+pillow
+scikit-learn
+torch
+torchvision
+tensorflow
+matplotlib
+requests
